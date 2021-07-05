@@ -1,0 +1,72 @@
+09:39:46.399 [main] INFO  c.m.t.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 37020 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+09:39:46.402 [main] INFO  c.m.t.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+09:39:47.794 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:39:47.795 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:39:47.795 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+09:39:47.916 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:39:48.324 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:00:34.057 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 7000 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+10:00:34.060 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+10:00:35.095 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:00:35.096 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:00:35.096 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+10:00:35.178 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:00:37.815 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+10:00:37.876 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 4.503 seconds (JVM running for 6.245)
+11:32:44.014 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 14200 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+11:32:44.034 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+11:32:45.678 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+11:32:45.679 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:32:45.680 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+11:32:45.775 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:32:48.517 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+11:32:48.571 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 5.315 seconds (JVM running for 7.426)
+15:13:32.789 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 32612 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+15:13:32.793 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+15:13:34.234 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:13:34.235 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:13:34.235 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+15:13:34.355 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:13:34.421 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:16:23.819 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 23008 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+15:16:23.825 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+15:16:25.171 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:16:25.172 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:16:25.172 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+15:16:25.272 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:16:27.731 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:16:27.865 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 4.896 seconds (JVM running for 6.589)
+15:17:57.211 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:36:40.529 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 30568 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+15:36:40.533 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+15:36:41.728 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:36:41.728 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:36:41.729 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+15:36:41.816 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:36:44.132 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:36:44.161 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 4.347 seconds (JVM running for 5.94)
+15:37:38.519 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:37:48.932 [http-nio-8080-exec-5] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+15:37:49.210 [http-nio-8080-exec-5] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+15:40:04.949 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 34120 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+15:40:04.953 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+15:40:06.209 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:40:06.210 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:40:06.211 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+15:40:06.298 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:40:08.698 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:40:08.728 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 4.596 seconds (JVM running for 6.148)
+15:41:06.922 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:41:07.067 [http-nio-8080-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+15:41:07.291 [http-nio-8080-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+15:46:55.055 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 18536 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+15:46:55.060 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+15:46:56.349 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:46:56.350 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:46:56.350 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+15:46:56.440 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:46:58.915 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:46:58.950 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 4.715 seconds (JVM running for 6.36)
+15:47:05.733 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:47:05.869 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+15:47:06.049 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.

@@ -1,0 +1,33 @@
+10:19:03.475 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 31468 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+10:19:03.483 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+10:19:06.740 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:19:06.741 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:19:06.741 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+10:19:06.873 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:19:10.570 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+10:19:10.620 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 8.214 seconds (JVM running for 10.9)
+10:19:25.551 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:19:25.705 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+10:19:25.979 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+10:23:59.662 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 12380 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+10:23:59.667 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+10:24:01.165 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:24:01.166 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:24:01.166 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+10:24:01.280 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:24:04.772 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+10:24:04.836 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 6.005 seconds (JVM running for 8.033)
+10:24:51.324 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:24:51.454 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+10:24:51.628 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+10:26:56.954 [main] INFO  c.m.TacoWebApplication - [logStarting,55] - Starting TacoWebApplication using Java 1.8.0_131 on DESKTOP-VH0BEDD with PID 7516 (D:\myself\IdeaProjects\taco-cloud-parent\taco-web\target\classes started by 18627 in D:\myself\IdeaProjects\taco-cloud-parent)
+10:26:56.959 [main] INFO  c.m.TacoWebApplication - [logStartupProfileInfo,660] - No active profile set, falling back to default profiles: default
+10:26:58.306 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:26:58.307 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:26:58.307 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.43]
+10:26:58.402 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:27:01.121 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+10:27:01.150 [main] INFO  c.m.TacoWebApplication - [logStarted,61] - Started TacoWebApplication in 5.164 seconds (JVM running for 7.228)
+10:28:24.832 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:28:24.967 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+10:28:25.195 [http-nio-8080-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.

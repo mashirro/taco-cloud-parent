@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taco-business" />
+        <module name="taco-common" />
+        <module name="taco-framework" />
+        <module name="taco-system" />
+        <module name="taco-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taco-business" target="1.8" />
+      <module name="taco-cloud-parent" target="1.8" />
+      <module name="taco-common" target="1.8" />
+      <module name="taco-framework" target="1.8" />
+      <module name="taco-system" target="1.8" />
+      <module name="taco-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

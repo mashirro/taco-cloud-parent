@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.4.3</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.mashirro</groupId>
+    <artifactId>taco-cloud-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>taco-cloud-parent</name>
+    <description>Taco Cloud</description>
+
+    <properties>
+        <java.version>1.8</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
+    <modules>
+        <!-- framework框架核心 -->
+        <module>taco-framework</module>
+        <!-- 框架通用模块 -->
+        <module>taco-common</module>
+        <!-- 业务办理模板 -->
+        <module>taco-business</module>
+        <!-- 系统管理模块 -->
+        <module>taco-system</module>
+        <!-- web服务模块 -->
+        <module>taco-web</module>
+    </modules>
+
+</project>
