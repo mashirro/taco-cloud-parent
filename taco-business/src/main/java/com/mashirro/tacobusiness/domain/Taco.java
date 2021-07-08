@@ -27,6 +27,6 @@ public class Taco {
 
   //一对多
   @TableField(exist = false)  //非数据库表字段
-  private List<String> ingredients = new ArrayList<>();
+  private List<Ingredient> ingredients = new ArrayList<>();
 
 }

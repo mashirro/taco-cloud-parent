@@ -15,7 +15,7 @@ import java.util.List;
  */
 @RestController
 @RequestMapping("/design")     //处理针对design的请求
-@CrossOrigin(origins = "*")    //允许跨域请求
+//@CrossOrigin(origins = "*")    //允许跨域请求
 public class DesignTacoController {
 
     @Autowired
@@ -42,5 +42,11 @@ public class DesignTacoController {
     @GetMapping("/{id}")
     public Taco tacoById(@PathVariable("id") String id) {
         return tacoService.getBaseMapper().selectById(id);
+    }
+
+
+    @PostMapping
+    public Taco processDesign(@RequestBody Taco taco) {
+        return tacoService.saveTaco(taco);
     }
 }
