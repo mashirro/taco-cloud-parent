@@ -5,9 +5,20 @@ import com.mashirro.tacobusiness.domain.Order;
 import com.mashirro.tacobusiness.mapper.OrderMapper;
 import com.mashirro.tacobusiness.service.OrderService;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
 @Slf4j
 public class OrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements OrderService {
+
+    @Autowired
+    private OrderMapper orderMapper;
+
+
+    @Override
+    public Order updateOrderById(Order order) {
+        orderMapper.updateById(order);
+        return order;
+    }
 }
