@@ -1,7 +1,7 @@
 package com.mashirro.tacobusiness.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.mashirro.tacobusiness.domain.Ingredient;
+import com.mashirro.tacocommon.domain.Ingredient;
 
 import java.util.List;
 

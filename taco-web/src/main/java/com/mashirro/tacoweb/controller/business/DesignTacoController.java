@@ -2,9 +2,9 @@ package com.mashirro.tacoweb.controller.business;
 
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.mashirro.tacobusiness.domain.Taco;
 import com.mashirro.tacobusiness.service.IngredientService;
 import com.mashirro.tacobusiness.service.TacoService;
+import com.mashirro.tacocommon.domain.Taco;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -34,7 +34,7 @@ public class DesignTacoController {
      */
     @GetMapping("/recent")
     public List<Taco> recentTacos() {
-        Page<Taco> page = new Page<>(1, 1);
+        Page<Taco> page = new Page<>(1, 100);
         Page<Taco> pageList = tacoService.getBaseMapper().selectPage(page, null);
         List<Taco> tacoList = pageList.getRecords();
         for (Taco taco : tacoList) {

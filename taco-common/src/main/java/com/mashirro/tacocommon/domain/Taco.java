@@ -1,4 +1,4 @@
-package com.mashirro.tacobusiness.domain;
+package com.mashirro.tacocommon.domain;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;

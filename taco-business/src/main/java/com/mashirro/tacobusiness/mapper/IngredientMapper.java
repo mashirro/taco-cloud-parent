@@ -2,7 +2,7 @@ package com.mashirro.tacobusiness.mapper;
 
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.mashirro.tacobusiness.domain.Ingredient;
+import com.mashirro.tacocommon.domain.Ingredient;
 import org.apache.ibatis.annotations.Select;
 
 import java.util.List;

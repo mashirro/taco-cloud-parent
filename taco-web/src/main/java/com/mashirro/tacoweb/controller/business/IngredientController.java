@@ -1,8 +1,8 @@
 package com.mashirro.tacoweb.controller.business;
 
 
-import com.mashirro.tacobusiness.domain.Ingredient;
 import com.mashirro.tacobusiness.service.IngredientService;
+import com.mashirro.tacocommon.domain.Ingredient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

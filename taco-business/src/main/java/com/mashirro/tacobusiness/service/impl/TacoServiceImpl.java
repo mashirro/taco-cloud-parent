@@ -1,13 +1,12 @@
 package com.mashirro.tacobusiness.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.mashirro.tacobusiness.domain.Ingredient;
-import com.mashirro.tacobusiness.domain.Taco;
-import com.mashirro.tacobusiness.domain.TacoIngredient;
-import com.mashirro.tacobusiness.mapper.IngredientMapper;
 import com.mashirro.tacobusiness.mapper.TacoIngredientMapper;
 import com.mashirro.tacobusiness.mapper.TacoMapper;
 import com.mashirro.tacobusiness.service.TacoService;
+import com.mashirro.tacocommon.domain.Ingredient;
+import com.mashirro.tacocommon.domain.Taco;
+import com.mashirro.tacocommon.domain.TacoIngredient;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -43,5 +42,10 @@ public class TacoServiceImpl extends ServiceImpl<TacoMapper, Taco> implements Ta
             tacoIngredientMapper.insert(tacoIngredient);
         }
         return taco;
+    }
+
+    @Override
+    public List<Taco> selectTacosByOrderId(String id) {
+        return tacoMapper.selectTacosByOrderId(id);
     }
 }

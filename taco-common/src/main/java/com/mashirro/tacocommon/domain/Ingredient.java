@@ -1,8 +1,8 @@
-package com.mashirro.tacobusiness.domain;
+package com.mashirro.tacocommon.domain;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
-import com.mashirro.tacobusiness.enums.Type;
+import com.mashirro.tacocommon.enums.Type;
 import lombok.Data;
 
 /**
